@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nuclear-Grade Prompt Research Platform",
+  "description": "An advanced AI security research application to analyze model vulnerabilities and generate sophisticated manipulation prompts for educational and defensive purposes. This tool simulates a multi-layer analysis to explore jailbreak techniques, prompt injection, and other advanced exploitation vectors.",
+  "requestFramePermissions": []
+}
